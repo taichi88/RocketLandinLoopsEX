@@ -7,7 +7,7 @@ Console.WriteLine("CountDown for rocket launch ");
 for (int counter = 15; counter >= 1; counter--)
 {
     Console.WriteLine(counter + " Seconds left");
-    Thread.Sleep(1000);
+    Thread.Sleep(1111);
     Console.Clear();
 }
 
